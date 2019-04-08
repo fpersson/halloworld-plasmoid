@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Helloworld
+Comment=Hello World Plasmoid
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Author=Fredrik Persson
+X-KDE-PluginInfo-Email=fpersson.se@gmail.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.Helloworld
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
