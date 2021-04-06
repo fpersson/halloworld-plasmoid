@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
+project(Helloworld)
 
 find_package(ECM REQUIRED NO_MODULE)
 
